@@ -1,0 +1,70 @@
+Name: Jathin Chowdary Darsi
+Email: jathindarsi@gmail.com
+Phone: +1 (361) 466-7079
+LinkedIn: [Your LinkedIn URL here, if you want the parser to ignore it or you can add a new field in parser]
+
+Summary:
+AI/ML Developer with 4+ years of experience delivering production-ready, scalable GenAI and ML systems across healthcare, telecom, and legal domains. Skilled in training, evaluating, and deploying models using GPT-4, LangChain, RAG, TensorFlow, and PyTorch. Proven track record in deploying LLM pipelines via FastAPI and Spring Boot, with secure cloud infrastructure on AWS, Azure, and GCP. Adept at model optimization, data preprocessing (Pandas, NumPy, Spark), and integrating ML APIs into production. Implemented MLOps solutions with MLflow and SageMaker to ensure traceability, rollback, and CI/CD automation. Strong background in vector search (FAISS, Pinecone), agentic workflows, output validation, API development, and embedding AI into full-stack platforms.
+
+Skills:
+- Python (Pandas, NumPy)
+- Java
+- Kotlin
+- PHP
+- JavaScript (React, Node.js)
+- OpenAI GPT-4/3.5
+- LangChain
+- RAG
+- HuggingFace
+- Prompt Engineering
+- MLflow
+- SageMaker
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Airflow
+- Apache Spark
+- Databricks
+- Snowflake
+- AWS (Lambda, S3, Bedrock)
+- GCP (Vertex AI, Gemini APIs, Big Query)
+- OpenAI
+- Docker
+- Git
+- Terraform
+- HashiCorp Vault 
+- OKTA
+- CloudWatch
+- Autosys
+- Prometheus
+- Rollback strategies
+- Django
+- Flask
+- Pytorch
+- FastAPI
+- Streamlit
+- MySQL
+- PostgreSQL
+- Hadoop
+- Pinecone
+- FAISS
+- ETL
+- EDA
+- Data Visualization
+- CI/CD Pipelines
+
+Experience:
+AI Engineer - Oraczen AI (June 2024 – Apr 2025)
+- Developed enterprise-grade AI solutions using GPT-4, RAG pipelines, and vector databases (LangChain, Pinecone) to automate document workflows in telecom, legal, and finance domains.
+- Deployed scalable LLM microservices on AWS Lambda & Bedrock, reducing contract review time by 50%, while automating deployment using CodePipeline and CodeBuild to cut release cycles by 30%.
+- Built agentic AI workflows using LangChain Agents and multi-step orchestration for clause extraction and document summarization.
+# ... (continue formatting other experience, education sections similarly with clear headers)
+
+Education:
+Texas A&M University Kingsville, Texas - Master’s in Computer Science
+- Specialization in Software Engineering, Databases Systems, Cloud Computing, AI & Machine Learning.
+- Research I focused on optimizing cloud-based Machine Learning models for real-time applications
+- Graduated with a 3.62 GPA.
+
+# ... (and so on for other sections like "Highlighted Project Works" if you want to parse them)

@@ -1,0 +1,11 @@
+Job Title: Software Engineer Gen AI Developer
+Description: We are looking for a skilled Software Engineer to develop high-quality software.
+Responsibilities:
+- Design and implement software solutions.
+- Write clean, scalable code.
+- Test and deploy applications.
+Requirements:
+- Proven experience as a Software Engineer.
+- Experience with Python.
+- Familiarity with Agile methodologies.
+- BS or MS in Computer Science or relevant field.

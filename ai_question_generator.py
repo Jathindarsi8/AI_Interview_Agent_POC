@@ -9,7 +9,7 @@ API_KEY_PLACEHOLDER = "YOUR_GEMINI_API_KEY_GOES_HERE"
 
 # YOUR ACTUAL API KEY IS PLACED DIRECTLY HERE:
 # Replace the example key below with your actual key if it's different.
-actual_api_key = "AIzaSyBKznSZNBwCcZT4JEjEWSafBCkvCOaJmgA" # <<< Your specific API Key
+actual_api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" # <<< Your specific API Key
 
 try:
     # This check sees if 'actual_api_key' is different from the placeholder
